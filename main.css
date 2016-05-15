@@ -1,0 +1,69 @@
+.header {
+	background-color: #2D3630;
+}
+
+.logo {
+	color: #CCD0CE;
+}
+
+ul, li {
+	list-style-type: none;
+}
+
+ul {
+	display: block;
+}
+
+li {
+	display: inline-block;
+	padding-left: 5px;
+	padding-top: 20px;
+}
+
+#banner {
+	display: block;
+	margin: auto;
+	padding-top: 20px;
+}
+
+#wlc, #quote {
+	text-align: center;
+	color: #CCD0CE;
+}
+
+#quote {
+	width: 100%;
+	font-weight: bold;
+	font-size: 80px;
+	padding: 30px 0;
+}
+
+.lista {
+	color: #CCD0CE;
+}
+
+/* .port {
+	background-color: #868B86;
+} */
+
+
+.container-fluid {
+	margin-bottom: 60px;
+}
+
+.size { 
+	width: 220px;
+	height: 185;
+}
+
+.nje {
+	width: 400px;
+}
+
+.hahah {
+	margin-bottom: 20px;
+}
+
+#cpr {
+	padding-left: 20px;
+}
